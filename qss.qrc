@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>theme/default.qss</file>
+        <file>theme/dark.qss</file>
+        <file>theme/lavender.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/subcodeicons">
+        <file>icons/icons8_add_file_80px.png</file>
+        <file>icons/icons8_command_line_.png</file>
+        <file>icons/icons8_console_80px.png</file>
+        <file>icons/icons8_copy_2_80px.png</file>
+        <file>icons/icons8_create_new_80.png</file>
+        <file>icons/icons8_cut_80px.png</file>
+        <file>icons/icons8_decrease_font.png</file>
+        <file>icons/icons8_find_and_repl.png</file>
+        <file>icons/icons8_increase_font.png</file>
+        <file>icons/icons8_new_file_80px.png</file>
+        <file>icons/icons8_paste_80px.png</file>
+        <file>icons/icons8_redo_80px.png</file>
+        <file>icons/icons8_save_80px.png</file>
+        <file>icons/icons8_save_as_80px.png</file>
+        <file>icons/icons8_search_80px.png</file>
+        <file>icons/icons8_undo_80px.png</file>
+        <file>icons/icons8_theme_80px.png</file>
+        <file>icons/LavenderBlush.png</file>
+        <file>icons/PaleTurquois.png</file>
+        <file>icons/wheat.png</file>
+    </qresource>
+</RCC>

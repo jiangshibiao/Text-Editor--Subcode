@@ -1,0 +1,37 @@
+QMenuBar {
+    background-color: #C4B7D7;
+    padding: 4px 2px;
+}
+
+QMenuBar::item {
+    spacing: 3px; /* spacing between menu bar items */
+    background: transparent;
+    color: #706A78;
+    padding: 0px 10px;
+}
+
+QMenuBar::item:selected { /* when selected using mouse or keyboard */
+    background: #B0A4C1;
+}
+
+QMenuBar::item:pressed {
+    background: #B0A4C1;
+}
+QMenu {
+	background-color: #F5F5F5;
+	color: #978AAA;
+}
+QToolBar
+{
+	background: #EDEDF5;
+	height: 488;
+	width: 100;
+	border-width: 0;
+	border-style: outset;
+}
+QTextEdit {
+    background-color: #E1DAF0;
+    background-attachment: scroll;
+	border-width: 0;
+	border-style: outset;
+}
